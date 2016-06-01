@@ -55,3 +55,8 @@ Comme on voie, le Reconstruction loss ne dépend pas de hidden units number. et 
 ![](https://cloud.githubusercontent.com/assets/3332561/15592960/395a3862-23a8-11e6-802e-8545c883803e.png)
 <center> Domain classifier loss per number of units D in a single hidden layer, with different values of λ.</center>
 Le domain classifier loss est un constant pour D différents, mais pour le Domain Lambda de 10, le loss varie entre -1.9 et 55, ça est un phénomène bizarre.
+
+![](https://cloud.githubusercontent.com/assets/3332561/15705499/e772b500-27ef-11e6-8d15-8b2e836a181b.png)
+<center> reconstruction error et discrimination error en cas de lambda differents </center>
+
+Pour visualiser le front de pareto. 
